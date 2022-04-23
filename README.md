@@ -32,8 +32,8 @@ Based on the anime Jigoku Shoujo (Hell Girl), this site can only be entered exac
 
 
 ## 地獄通信 <a name="jp"></a>
-**復讐すると、二つの墓が掘られます。**  
+**<ruby>復讐<rp>(</rp><rt>ふくしゅう</rt><rp>)</rp></ruby>すると、<ruby>二つ<rp>(</rp><rt>ふたつ</rt><rp>)</rp></ruby>の<ruby>墓<rp>(</rp><rt>はか</rt><rp>)</rp></ruby>が<ruby>掘<rp>(</rp><rt>ほ</rt><rp>)</rp></ruby>られます。**  
 
 
-地獄少女のアニメを原作としたこのウェブサイトは真夜中のみアクセス可能です。 誰かの名前を書いて、君の魂と引き換えに、その人はすぐに地獄に連れて行かれます。
+<ruby>地獄少女<rp>(</rp><rt>じごくしょうじょ</rt><rp>)</rp></ruby>のアニメを<ruby>原作<rp>(</rp><rt>げんさく</rt><rp>)</rp></ruby>としたこのウェブサイトは<ruby>真夜中<rp>(</rp><rt>まよなか</rt><rp>)</rp></ruby>のみアクセス<ruby>可能<rp>(</rp><rt>かのう</rt><rp>)</rp></ruby>です。 誰かの名前を書いて、君の魂と引き換えに、その人はすぐに地獄に連れて行かれます。
 <img src="https://hdwallpaperim.com/wp-content/uploads/2017/09/07/465204-Jigoku_Shoujo-Enma_Ai-anime_girls-748x468.jpg" alt="Desenho de garota vestindo roupa tradicional japonesa deitada num chão de madeira com sangue ao lado" width="100%">
