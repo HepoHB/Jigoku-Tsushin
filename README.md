@@ -15,7 +15,7 @@
 **Quando a vingança é feita, duas covas são cavadas.**  
 
 
-Baseado no anime Jigoku Shoujo (Garota do Inferno), este site só pode ser acessado exatamente à meia-noite. Escreva o nome de alguém e ao troco de tua alma, a pessoa será levada imediatamente ao inferno.
+Baseado no anime Jigoku Shoujo (Garota do Inferno), este site só pode ser acessado exatamente à meia-noite. Escreva o nome de alguém e em troca de tua alma, a pessoa será levada imediatamente ao inferno.
 <img src="https://w0.peakpx.com/wallpaper/972/328/HD-wallpaper-jigoku-shoujo-hell-girl-girl-ai.jpg" alt="Desenho de garota vestindo roupa tradicional japonesa e assoprando um copo com chá" width="100%">
 
 
