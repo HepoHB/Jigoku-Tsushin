@@ -1,9 +1,15 @@
-body{
+.mainbody{
     background-color: black;
     color: white;
     text-align: center;
     font-size: 2rem;
     font-weight: bold;
     margin-top: 10%;
+    overflow: hidden;
+
+}
+
+.hider{
+    opacity: 0;
 
 }

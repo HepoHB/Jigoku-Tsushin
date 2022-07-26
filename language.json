@@ -1,6 +1,6 @@
 {   "languages":[
-    {"language": "pt-BR", "phrase": "Sua dor será aliviada.", "button": "Enviar"},
-    {"language": "en-US", "phrase": "We will take revenge on your behalf.", "button": "Send"},
-    {"language": "jp-JP", "phrase": "あなたの怨み、晴らします。", "button": "送信"}
+    {"language": "pt-BR", "phrase": "Sua dor será aliviada.", "button": "Enviar", "name": "Linha Direta do Inferno"},
+    {"language": "en-US", "phrase": "We will take revenge on your behalf.", "button": "Send", "name": "Hell Link"},
+    {"language": "jp-JP", "phrase": "あなたの怨み、晴らします。", "button": "送信", "name": "地獄通信"}
     ]
 }
